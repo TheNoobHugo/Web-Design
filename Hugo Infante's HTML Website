@@ -1,0 +1,13 @@
+<!DOCTYPE  html>
+<html>
+<head>
+	<title> Hugo's Website</title>
+<body>
+	<center> <h1 style="color:blue;"> Welcome!</h1> </center>
+	<center> <p> <i> To those who have found this website, don't forget to follow me on Facebook.</p> </i> </center>
+
+	<center> <a href="https://www.facebook.com/profile.php?id=100082677252699"> <img src="https://freepnglogo.com/images/all_img/facebook-circle-logo-png.png" width=300 height=300> </center>
+	
+	<center> <p> <i> My hobby is collecting Yu-Gi-OH trading cards and one of my favorite monster archetypes is Salamangreat. You can click the Kuriboh to see the list of Salamangreat cards. </p> </i>
+	
+	<center> <a href="https://www.yugiohcardguide.com/archetype/salamangreat.html"> <img src="https://m.media-amazon.com/images/I/517BB0NscLL._AC_UF894,1000_QL80_.jpg" width=200 height=300> </center> 
